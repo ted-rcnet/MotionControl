@@ -1,0 +1,1 @@
+java -Djava.library.path=lib\rxtx_natives\win32 -jar MotionConf.jar
